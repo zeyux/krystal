@@ -416,4 +416,15 @@ h2 {
   .group {
     display: none;
   }
+
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: White;
+    background: purple;
+}
+
+::selection {
+    color: White; 
+    background: purple;
 }
