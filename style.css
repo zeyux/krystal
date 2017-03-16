@@ -421,10 +421,10 @@ h2 {
 
 ::-moz-selection { /* Code for Firefox */
     color: White;
-    background: purple;
+    background: #FF60FD;
 }
 
 ::selection {
     color: White; 
-    background: purple;
+    background: #FF60FD;
 }
