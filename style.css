@@ -417,11 +417,6 @@ h2 {
     display: none;
   }
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,700');
-body{
-  background: #000; 
-  font-family: 'Roboto', sans-serif; 
-  color: #fff;
-}
 .window{
   position: absolute;
     top: 50%;
@@ -430,10 +425,11 @@ body{
     transform: translate(-50%, -50%)
  
 }
-.container{
+.contain{
   width: 150px;
   height: 10px;
-  border: 2px solid #b2b2b2;
+  border: 2px solid 
+#b2b2b2;
   border-radius: 7px;
   margin: 0 auto;
   padding: 2px 1px;
@@ -453,7 +449,7 @@ body{
   width: 220px;
   margin: 50px auto;
 }
-.logo p{
+.icon p{
   margin: 0;
   padding: 0;  
 }
