@@ -450,6 +450,8 @@ h2 {
   animation-name:spinify;
   animation-duration:1600ms;
   animation-iteration-count:infinite;
+  transition: width 1s linear;
+  transition-delay: 1s;
 }
 @keyframes spinify {
   0% {
